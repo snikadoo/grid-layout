@@ -26,13 +26,3 @@ html {
 body {
   margin: 0;
 }
-
-@media only screen and (min-width: 38em) {
-
-  .s-1-2 {
-    display: inline-block;
-  }
-
-
-
-}
